@@ -1,0 +1,19 @@
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\bin\Debug\Library Managment System.UI.exe
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\bin\Debug\Library Managment System.UI.pdb
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\obj\Debug\Library Managment System.UI.csprojResolveAssemblyReference.cache
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\obj\Debug\Library_Managment_System.UI.Properties.Resources.resources
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\obj\Debug\Library Managment System.UI.csproj.GenerateResource.Cache
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\obj\Debug\Library Managment System.UI.exe
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\obj\Debug\Library Managment System.UI.pdb
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\obj\Debug\Library_Managment_System.UI.AdminSite.resources
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\obj\Debug\Library_Managment_System.UI.MyBookSelf.resources
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\obj\Debug\Library_Managment_System.UI.UserInfo.resources
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\obj\Debug\Library_Managment_System.UI.UserRegistration.resources
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\obj\Debug\Library_Managment_System.UI.FrmUserAccess.resources
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\bin\Debug\Library Managment System.Data.exe
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\bin\Debug\Library Managment System.Entity.exe
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\bin\Debug\Library Managment System.Data.pdb
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\bin\Debug\Library Managment System.Entity.pdb
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\bin\Debug\Library Managment System.UI.exe.config
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\obj\Debug\Library_Managment_System.UI.Return.resources
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.UI\obj\Debug\Library_Managment_System.UI.SearchBook.resources

@@ -1,0 +1,18 @@
+        private void returnButton_Click(object sender, EventArgs e)
+        {
+            DateTime DateDueBack;
+            DateTime DateReturned;
+            //double daysOverDue;
+            int daysOverDue;
+            double fineRate = 10;
+            double fine;
+            DateDueBack = Convert.ToDateTime(dueBackTextBox.Text);
+            DateReturned = Convert.ToDateTime(returnDateTextBox.Text);
+
+            daysOverDue = (DateReturned-DateDueBack).Days;
+            dateOverDueTxtBox.Text = Convert.ToString(daysOverDue);
+
+            double overDueValue = double.Parse(dateOverDueTxtBox.Text);
+            fine = fineRate * overDueValue;
+            lateRetrnFineTxtBox.Text = fine.ToString();
+        }

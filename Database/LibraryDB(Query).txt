@@ -1,0 +1,26 @@
+CREATE TABLE [dbo].[User] (
+    [Title]          VARCHAR (10) NULL,
+    [UserName]       VARCHAR (60) NULL,
+    [Email]          VARCHAR (70) NULL,
+    [Password]       VARCHAR (60) NULL,
+    [Password2]      VARCHAR (80) NULL,
+    [Address]        VARCHAR (80) NULL,
+    [DOB]            DATE         NULL,
+    [BookId]        INT          NULL,
+    [BorrowDate]     DATE         NULL,
+    [ReturnDate]     DATE         NULL,
+    [LateReturnFine] INT          NULL,
+
+CONSTRAINT [FK_User_BookSelf] FOREIGN KEY ([BookId]) REFERENCES [dbo].[BookSelf] ([BookId])
+    
+);
+
+CREATE TABLE [dbo].[BookSelf]
+(
+	[BookId] INT NOT NULL , 
+    [BookTitle] VARCHAR(40) NULL, 
+    [Author] VARCHAR(60) NULL, 
+    [Catagory] VARCHAR(80) NULL,
+PRIMARY KEY CLUSTERED ([BookId] ASC),
+    
+)

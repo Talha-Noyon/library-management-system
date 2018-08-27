@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LibraryDB">
+  <DataContextMoniker Name="/LibraryDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="66a5c436-463b-4bc4-94fd-b4e360805854" absoluteBounds="0.75, 1.125, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/LibraryDBDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="996d60de-e13c-4d35-9cc2-32bee1aadcef" absoluteBounds="0.765, 1.585, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2a5a559d-ebd5-499c-8453-97e3ab17a76c" absoluteBounds="3.75, 3.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/LibraryDBDataContext/BookSelf" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fdcf471b-0ee8-4b56-9a9d-eb374ba36873" absoluteBounds="3.7649999999999997, 3.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e4a7660d-54bf-48de-8f91-c3388eaaf86f" absoluteBounds="4.375, 0.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/LibraryDBDataContext/BrowseBook" />
+      <nestedChildShapes>
+        <elementListCompartment Id="879a6ec7-f520-43a0-be67-3653ea2deefb" absoluteBounds="4.39, 1.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

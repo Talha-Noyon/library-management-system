@@ -1,0 +1,8 @@
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.Data\bin\Debug\Library Managment System.Data.exe
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.Data\bin\Debug\Library Managment System.Data.pdb
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.Data\bin\Debug\Library Managment System.Entity.exe
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.Data\bin\Debug\Library Managment System.Entity.pdb
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.Data\obj\Debug\Library Managment System.Data.csprojResolveAssemblyReference.cache
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.Data\obj\Debug\Library Managment System.Data.exe
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.Data\obj\Debug\Library Managment System.Data.pdb
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.Data\bin\Debug\Library Managment System.Data.exe.config

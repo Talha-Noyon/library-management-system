@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="LibraryDB" Class="LibraryDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=&quot;F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Database\LibraryDB.mdf&quot;;Integrated Security=True;Connect Timeout=30;User Instance=True" SettingsObjectName="Library_Managment_System.Entity.Properties.Settings" SettingsPropertyName="LibraryDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.[User]" Member="Users">
+    <Type Name="User">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserId" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Title" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="UserName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(70)" CanBeNull="true" />
+      <Column Name="Password1" Type="System.String" DbType="VarChar(70)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="DOB" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AdvPayment" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BookSelf" Member="BookSelfs">
+    <Type Name="BookSelf">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserId" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="BookName" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="BackDate" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="DaysOverDue" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="Fine" Type="System.String" DbType="VarChar(90)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BrowseBook" Member="BrowseBooks">
+    <Type Name="BrowseBook">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BookName" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="BookId" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Author" Type="System.String" DbType="VarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="Catagory" Type="System.String" DbType="VarChar(60) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
